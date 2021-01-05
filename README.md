@@ -12,3 +12,11 @@ O controle das tarefas desse projeto será realizado no Github
 - :up: atualização
 - :beetle: correção de bug
 - :checkered_flag: release
+
+### Tecnologias
+
+- HTML, CSS e JS
+
+#### Observações
+
+- Ainda em fase teste, falta finalizar alguns ajustes
