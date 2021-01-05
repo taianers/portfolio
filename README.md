@@ -19,4 +19,4 @@ O controle das tarefas desse projeto será realizado no Github
 
 #### Observações
 
-- Ainda em fase teste, falta finalizar alguns ajustes
+- Ainda em fase teste, falta incluir responsividade e finalizar alguns ajustes de detalhes
